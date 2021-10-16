@@ -2,7 +2,7 @@ Script creado de cero por Sonk
 Discord: Sonk#2333
 
 ## REQUISITOS
-https://github.com/esx-framework/es_extended/releases/tag/v1-final (mi versión es la 1.2.0final pero puedes probar con otra)
+https://github.com/esx-framework/es_extended/tree/legacy (mi versión era la 1.2.0final pero puedes probar con otra)
 https://github.com/esx-framework/esx_license
 
 
