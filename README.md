@@ -2,9 +2,8 @@ Script creado de cero por Sonk
 Discord: Sonk#2333
 
 ## REQUISITOS
-https://github.com/esx-framework/es_extended/tree/legacy (mi versión era la 1.2.0final pero puedes probar con otra)
-https://github.com/esx-framework/esx_license
-
+es_extended o similar
+esx_license
 
 ## PARA METER VIPS
 Solo hay que ver el archivo sql.sql y editar AQUI SE PONE EL IDENTIFIER DEL USUARIO como pide
