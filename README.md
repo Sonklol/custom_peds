@@ -2,8 +2,6 @@
 <img src="https://github.com/Sonklol/custom_peds/blob/main/cap.png?raw=true"/>
 </div>
 <br>
-Script creado de cero por Sonk
-Discord: Sonk#2333
 
 ## REQUISITOS
 es_extended o similar
