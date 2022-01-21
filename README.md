@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/Sonklol/Automatic-GameServer/blob/main/cap.png?raw=true"/>
+</div>
+<br>
 Script creado de cero por Sonk
 Discord: Sonk#2333
 
